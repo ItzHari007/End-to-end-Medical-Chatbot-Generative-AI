@@ -21,7 +21,7 @@ This project now uses Google Gemini for LLM tasks. To use Gemini:
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/ItzHari007/End-to-end-Medical-Chatbot-Generative-AI.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
